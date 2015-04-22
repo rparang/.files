@@ -1,0 +1,5 @@
+[url "https://"]
+	insteadOf = git://
+[user]
+	name = Reza Parang
+	email = reza.parang@gmail.com
